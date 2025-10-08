@@ -13,8 +13,6 @@ HTML5 – Estrutura do site
 
 CSS3 – Estilo e design responsivo
 
-(Opcional) JavaScript – Para efeitos interativos (se houver algum)
-
 Estrutura do Projeto
 
 index.html – Página principal do currículo
